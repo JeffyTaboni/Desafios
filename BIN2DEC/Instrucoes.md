@@ -28,7 +28,7 @@ Esse desafio requer que o desenvolvedor implemente seguindo essas restrições:
 
 ## Links e recursos
 
-[Binary number system]([https://pt.wikipedia.org/wiki/Sistema_de_numera%C3%A7%C3%A3o_bin%C3%A1rio])
+[Binary number system](https://pt.wikipedia.org/wiki/Sistema_de_numera%C3%A7%C3%A3o_bin%C3%A1rio)
 
 ## Projetos de exemplos
 
