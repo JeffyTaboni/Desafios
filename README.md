@@ -24,4 +24,11 @@ Todos os recursos e links para ajudá-lo a encontrar o que você precisa para co
 
 
 | Nome | Breve Descrição | Camada |
-| [Bin2Dec]([./BIN2DEC/Instruções desafio.md]) | Conversor de número binário para decimal | 1-Iniciante |
+
+
+### Tier-1: Projjetos iniciantes
+
+| Nome                                                                              | Descrição                                                 | Camada       |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| [Bin2Dec](.Desafios/BIN2DEC/)                                   | Binary-to-Decimal number converter                         | 1-Beginner 
+
