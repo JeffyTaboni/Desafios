@@ -1,4 +1,7 @@
 # Bin2Dec
+
+Coloquei um teste inicial feito apenas em SQL irei implementar em outra linguagem.
+
 Nivel Iniciante
 
 Binario é o sistema numerico em que todos os computadores são baseados.
