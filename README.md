@@ -21,3 +21,8 @@ Um objetivo claro e descritivo;
 Uma lista de histórias de usuário que devem ser implementadas (essas histórias funcionam mais como uma diretriz do que uma lista forçada de tarefas pendentes. Sinta-se à vontade para adicionar suas próprias histórias, se desejar);
 Uma lista de recursos de bônus que não apenas melhoram o projeto base, mas também suas habilidades ao mesmo tempo (estes são opcionais e devem ser tentados somente depois de concluir as histórias de usuário necessárias)
 Todos os recursos e links para ajudá-lo a encontrar o que você precisa para concluir o projeto.
+
+
+| Nome | Breve Descrição | Camada |
+| -------------------------------------------------- ------------------------------- | -------------------------------------------------- -------- | ---------- |
+| [Bin2Dec](./BIN2DEC/Instruções desafio.md) | Conversor de número binário para decimal | 1-Iniciante |
