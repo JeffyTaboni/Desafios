@@ -23,9 +23,6 @@ Uma lista de recursos de bônus que não apenas melhoram o projeto base, mas tam
 Todos os recursos e links para ajudá-lo a encontrar o que você precisa para concluir o projeto.
 
 
-| Nome | Breve Descrição | Camada |
-
-
 ### Tier-1: Projjetos iniciantes
 
 | Nome                                                                              | Descrição                                                 | Camada       |
