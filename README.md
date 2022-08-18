@@ -27,5 +27,5 @@ Todos os recursos e links para ajudá-lo a encontrar o que você precisa para co
 
 | Nome                                                                              | Descrição                                                 | Camada       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Bin2Dec](.Desafios/BIN2DEC/)                                   | Binary-to-Decimal number converter                         | 1-Beginner 
+| [Bin2Dec](.BIN2DEC/Instrucoes.md)                                   | Binary-to-Decimal number converter                         | 1-Beginner 
 
